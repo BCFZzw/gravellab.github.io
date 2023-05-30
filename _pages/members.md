@@ -44,6 +44,8 @@ Alex graduated from the University of Waterloo with a BMath, majoring in Statist
 
 ## Alouette Zhang
 
+Alouette is a PhD student supervised by Dr. Simon Gravel and Dr. Yasuhiro Murakawa under the Kyoto-McGill International Collaborative Program in Genomic Medicine. Her research focuses on how linkage disequilibrium gives rise to genomic patterns imprinted by evolutionary events. She is also actively involved in optimizing pipelines for analyzing long-read mRNA data. Alouette is passionate about exploring how these novel findings can contribute to our understanding of the evolution of biological functions and diseases.
+
 ## Georgette Femerling
 Georgette graduated from the National Autonomous University of Mexico (UNAM) in 2021 with a B.Sc in Genomic Sciences, during which she developed interest in population genetics by working in projects focused on human evolution and endangered birds. She joined the lab in January 2022 as MSc Student in the department of Human Genetics. She is interested in structured populations and demography. Her research aims to understand how LD statistics can be used to detect ancient structure and to validate demographic inference.
 
